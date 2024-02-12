@@ -19,7 +19,7 @@ Signnames.csv: CSV file containing the mapping of class labels to sign names.
 German_trafficsign_Classification.ipynb: Contains the Python script used for data preprocessing, model building, training, and testing (traffic_sign_classification.py).
 
 ## How to Run Files
-1. Clone the data using the provided Git URL: git clone https://bitbucket.org/jadslim/german-traffic-signs or [kaggele ink] (https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
+1. Clone the data using the provided Git URL: git clone https://bitbucket.org/jadslim/german-traffic-signs or [kaggele ink](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 2. Navigate to the project directory: cd german-traffic-signs.
 3. Install the required Python libraries if not already installed: pip install numpy matplotlib keras opencv-python pandas.
 4. Execute the Python script traffic_sign_classification.py to preprocess the data, build, train, and evaluate the CNN model.
